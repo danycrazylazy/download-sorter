@@ -28,7 +28,6 @@ download-sorter/
 ├── sort.bat             # Запуск сортировки в Windows
 ├── rollback.bat         # Запуск отката в Windows
 ├── README.md            # Документация
-├── LICENSE              # Лицензия MIT
 └── .gitignore           # Исключения для Git
 ```
 
