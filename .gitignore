@@ -1,0 +1,6 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Local operation history (may contain personal file paths)
+sort_log.json
